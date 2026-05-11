@@ -1,4 +1,5 @@
-# RU-VAE (ISBI 2022) — thesis Chapter 4
+# Robust semi-supervised VAE (RU-VAE), ISBI 2022
+# Semi-supervised Generalized-VAE Framework with a Classifier in Latent Space for Anomaly Detection (c-ss-gVAE) in PhD thesis Chapter 4
 
 Code for **robust semi-supervised VAE** experiments on **malaria blood-smear patches** and **nanofibre** imagery, as in the ISBI 2022 paper and PhD thesis Chapter 4.
 
