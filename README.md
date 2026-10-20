@@ -4,10 +4,15 @@ Code for **robust semi-supervised VAE** experiments on **malaria blood-smear pat
 
 > This repository is **not** the ss-gVAE (WACV 2022) codebase. For ss-gVAE, see [`RenukaSharma/ss-gVAE`](https://github.com/RenukaSharma/ss-gVAE). A compact map of thesis chapters to repositories is maintained in the ss-gVAE README.
 
-## Paper and camera-ready PDF
+## Paper and conference materials
 
-- **IEEE Xplore (ISBI 2022):** [document 9761472](https://ieeexplore.ieee.org/document/9761472)  
-- **Camera-ready PDF (Google Drive):** [link](https://drive.google.com/file/d/1fapKVmd193qVkeJokayVqOOKCsm52Kqg/view)
+This is the **only** public repository for RU-VAE / c-ss-gVAE (code, figures, and paper files). The older [`RenukaSharma/RUVAE`](https://github.com/RenukaSharma/RUVAE) listing is a redirect here.
+
+- **IEEE Xplore (ISBI 2022):** [document 9761472](https://ieeexplore.ieee.org/document/9761472)
+- **Camera-ready PDF:** [`docs/paper/mainCameraReady_curr.pdf`](docs/paper/mainCameraReady_curr.pdf)
+- **Poster:** [`docs/paper/144_ISBI_poster.pdf`](docs/paper/144_ISBI_poster.pdf)
+- **Oral slides:** [`docs/paper/144_ISBI_presentation.pdf`](docs/paper/144_ISBI_presentation.pdf)
+- Extra Drive copy of the camera-ready: [Google Drive](https://drive.google.com/file/d/1fapKVmd193qVkeJokayVqOOKCsm52Kqg/view)
 
 ## Scope of this release
 
@@ -67,10 +72,8 @@ Companion repositories from the same thesis:
 | ------- | ----- | ---------- |
 | Ch. 3 | ss-gVAE (WACV 2022) | [`ss-gVAE`](https://github.com/RenukaSharma/ss-gVAE) |
 | Ch. 4 | RU-VAE (ISBI 2022) — **this repository** | [`c-ss-gVAE`](https://github.com/RenukaSharma/c-ss-gVAE) (here) |
-| Ch. 5 | ss-ms-gVAE (Neurocomputing) | Paper: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S092523122401943X) · code: *coming soon* |
+| Ch. 5 | c-ss-ms-gVAE (Neurocomputing) | [`c-ss-ms-gVAE`](https://github.com/RenukaSharma/c-ss-ms-gVAE) |
 | Ch. 6 | Anomaly localization (ss-vq-vae) | [`ss-vq-vae`](https://github.com/RenukaSharma/ss-vq-vae) (in preparation) |
-
-The RU-VAE (Ch. 4) camera-ready PDF is also available on [Google Drive](https://drive.google.com/file/d/1fapKVmd193qVkeJokayVqOOKCsm52Kqg/view).
 
 ## Citation
 
