@@ -22,9 +22,7 @@ Supporting code lives under `src/` (DeepSAD-style training, SSAD hybrid baseline
 
 ## Results (your figures)
 
-Figures below use **only** files in [`docs/figures/`](docs/figures/) from **this** project (thesis Ch. 4 / ISBI exports, re-runs, etc.). **Do not** copy plots from the ss-gVAE repo. Save or rename your PNGs to match the paths in the `<img>` tags, or edit those paths to match the filenames you already use.
-
-Until those files exist on `main`, GitHub may show broken image icons for missing PNGs.
+Figures below are the ISBI 2022 / thesis Chapter 4 plots, stored in [`docs/figures/`](docs/figures/). They are **not** copied from the ss-gVAE repository.
 
 ### Method overview
 
@@ -32,7 +30,7 @@ Until those files exist on `main`, GitHub may show broken image icons for missin
   <img src="docs/figures/architecture.png" alt="RU-VAE method figure" width="92%">
 </p>
 
-> **Figure 1.** *Replace this caption* after you add `docs/figures/architecture.png` (or change the path above to match your filename).
+> **Figure 1.** Robust and Uncertainty-Aware VAE (RU-VAE / c-ss-gVAE) for one-class classification. From the ISBI 2022 camera-ready.
 
 ### Malaria (patch dataset)
 
@@ -50,7 +48,7 @@ Until those files exist on `main`, GitHub may show broken image icons for missin
   <img src="docs/figures/nanofibre_ablation.png" alt="Nanofibre ablations" width="46%">
 </p>
 
-Add more rows (e.g. t-SNE) by dropping files under `docs/figures/tsne/` and extending this section.
+Malaria t-SNE from the ISBI camera-ready is in [`docs/figures/tsne/malaria_ruvae.png`](docs/figures/tsne/malaria_ruvae.png).
 
 ## Quick start
 
